@@ -6,6 +6,8 @@
 
 * [KMyMoney](https://kmymoney.org/)
 * [GnuCash](https://www.gnucash.org/)
+* [Skrooge](https://skrooge.org/)
+* [Homebank](http://homebank.free.fr/en/index.php)
 
 ### Commercial Software
 
