@@ -1,5 +1,13 @@
 # Personal Finance Tools
 
+## Communities
+
+### Software
+
+* [Reddit PersonalFinance subreddit](https://www.reddit.com/r/personalfinance)
+* [Reddit PersonalFinance Tools](https://www.reddit.com/r/personalfinance/wiki/tools)
+* [Reddit PFTools](https://www.reddit.com/r/PFtools/)
+
 ## Desktop & Webapps Software
 
 ### Open Source
