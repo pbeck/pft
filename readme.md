@@ -32,6 +32,9 @@
 * [Konsumenternas](https://www.konsumenternas.se/)
 * https://www.theverge.com/2020/6/16/21292642/microsoft-money-in-excel-template-addin-feature-personal-finance-microsoft-365
 * https://plaid.com/eu/
+* https://nordicpayments.eu/
+* https://tink.com/blog/open-banking/tink-integration-efforts
+* https://tink.com/blog/open-banking/psd2-status-update/
 
 
 ## Software Development
