@@ -19,6 +19,7 @@
 
 ### Commercial Software
 
+* [Actual](https://www.actualbudget.com)
 * [YNAB](https://www.youneedabudget.com/)
 * [MoneyWiz](https://wiz.money/sv/)
 * [Spendee](https://www.spendee.com/)
